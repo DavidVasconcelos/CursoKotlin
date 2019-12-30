@@ -1,6 +1,6 @@
 package fundamentos.operadores
 
-fun obterResultado(nota : Double) : String = if(nota >= 7.0) "Passou" else
+fun obterResultado(nota : Double) : String = if(nota >= 7.0) "Passou" else // por causa do = o return é implicito
     "Reprovou"
 
 fun main(args: Array<String>) {
