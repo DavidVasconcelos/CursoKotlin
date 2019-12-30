@@ -11,4 +11,5 @@ fun main(args: Array<String>) {
     b %= 2
 
     println(b)
+
 }
