@@ -1,4 +1,4 @@
-package fundamentos.funcoes;
+package funcoes;
 
 import kotlin.collections.CollectionsKt;
 

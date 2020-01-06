@@ -1,4 +1,4 @@
-package fundamentos.funcoes
+package funcoes
 
 fun <E> filtrar(lista: List<E>, filtro: (E) -> Boolean): List<E> {
     val listaFiltrada = ArrayList<E>()

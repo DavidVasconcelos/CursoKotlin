@@ -1,4 +1,4 @@
-package fundamentos.funcoes
+package funcoes
 
 class Produto(val nome: String, val preco: Double)
 

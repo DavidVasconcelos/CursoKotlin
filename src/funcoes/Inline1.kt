@@ -1,4 +1,4 @@
-package fundamentos.funcoes
+package funcoes
 
 inline fun transacao(funcao: () -> Unit) {
     println("abrindo transação...")

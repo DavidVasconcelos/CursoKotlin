@@ -1,4 +1,4 @@
-package fundamentos.funcoes
+package funcoes
 
 fun main(args: Array<String>) {
     println(potencia(2, 3))

@@ -1,4 +1,4 @@
-package fundamentos.funcoes
+package funcoes
 
 fun incremento(num: Int) { //
     //num++ // Erro! Todos os parametros são constantes, você não consegue alterar a refênrencia deles
