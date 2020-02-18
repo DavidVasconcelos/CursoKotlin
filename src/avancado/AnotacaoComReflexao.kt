@@ -18,7 +18,7 @@ fun getValor(objeto: Any, nomeAtributo: String): Any {
     val estaAcessivel = atributo.isAccessible
 
     atributo.isAccessible = true
-    val valor = atributo.get(objeto) // pega da inatancia o valor do atributo
+    val valor = atributo.get(objeto) // pega da instancia o valor do atributo
     atributo.isAccessible = estaAcessivel
 
     return valor
