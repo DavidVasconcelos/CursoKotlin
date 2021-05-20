@@ -1,7 +1,7 @@
 package fundamentos.controles
 
 fun main(args: Array<String>) {
-    val nota: Double = 9.3
+    val nota = 9
     // Usando operador range
     if (nota in 9..10) { //ele trunca para converter para Int
         println("Fantástico")
